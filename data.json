@@ -1,0 +1,1 @@
+{"training_data": [{"input": "text3", "output": "result3"}], "search_data": [{"query": "Python programming", "results": [{"title": "Title2", "url": "URL2"}]}], "learning_data": [{"lesson": "Lesson2", "topic": "Topic2", "resources": ["Resource3", "Resource4"]}]}
